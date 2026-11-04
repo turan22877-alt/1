@@ -1,11 +1,11 @@
-#include <stdio.h>
+Ôªø#include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
 #define _CRT_SECURE_NO_WARNINGS
 int main(void) {
     setlocale(LC_CTYPE, "RUS");
     int yeas;
-    printf("‚‚Ó‰Ë „Ó‰");
+    printf("–≤–≤–æ–¥–∏ –≥–æ–¥");
     scanf("%d", &yeas);
 
 
